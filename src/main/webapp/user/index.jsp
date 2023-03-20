@@ -100,7 +100,7 @@
                 <div class="col-md-4 column" style="width:260px;">
                     <div class="clumn" style="width:260px;border:1px solid #E8E8E8">
                         <div class="clumn_tit t01">
-                            <span>保定当地游</span>
+                            <span>江西当地游</span>
                         </div>
                         <div class="clumn _con">
                             <ul class="clu_ul page_ul">
@@ -141,7 +141,7 @@
 
 			<!-- 京畿胜景宣传图 -->
             <div class="container-fluid" style="margin-top:30px;">
-				<img src="../image/zmbd.PNG" width="100%"/>
+				<img src="../image/jx.jpg" width="100%"/>
 			</div>
 
 
