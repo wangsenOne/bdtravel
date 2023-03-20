@@ -7,7 +7,7 @@
         <img style="height: 50px;width: 110px" src="../image/logo1.png" />
     </div>
     <div class="col-md-4" style="padding-left: 0px;padding-top: 4px">
-        <img src="../image/bdlogo.png" />
+        <img src="../image/jlogo.png" />
     </div>
     <div class="col-md-3">
         <%--<img src="image/logor.png" />--%>

@@ -32,24 +32,12 @@
 					<div class="carousel-inner" role="listbox">
 						<div class="item active" style="height:400px;">
 							<img src="../image/lb1.png">
-							<div class="carousel-caption">
-								<!-- 轮播图上的文字 -->
-                                <img src="../image/lbw.png">
-							</div>
 						</div>
 						<div class="item" style="height:400px;">
 							<img src="../image/lb2.png">
-							<div class="carousel-caption">
-								<!-- 轮播图上的文字 -->
-                                <img src="../image/lbw.png">
-							</div>
 						</div>
 						<div class="item" style="height:400px;">
 							<img src="../image/lb3.png">
-							<div class="carousel-caption">
-								<!-- 轮播图上的文字 -->
-                                <img src="../image/lbw.png">
-							</div>
 						</div>
 					</div>
 
